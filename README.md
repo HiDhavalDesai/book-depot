@@ -1,3 +1,6 @@
+<h1>Welcome to my Book Depot</h1>
+<p>Here you will find every book I've read and it's summary.</p>
+
 <table>
     <thead>
         <th>Title</th>
@@ -15,6 +18,30 @@
             <td>02-14-2024</td>
             <td></td>
             <td><a href="12-rules-to-learn-to-code.html">Summary</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="#">Summary</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="#">Summary</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="#">Summary</a></td>
         </tr>
         <tr>
             <td></td>
