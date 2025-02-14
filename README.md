@@ -14,7 +14,7 @@
         <tr>
             <td>12 Rules to Learn to Code</td>
             <td>Dr. Angela Yu</td>
-            <td>50</td>
+            <td>49</td>
             <td>02-14-2024</td>
             <td></td>
             <td><a href="12-rules-to-learn-to-code.html">Summary</a></td>
