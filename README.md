@@ -1,4 +1,4 @@
-<table align="text-center">
+<table>
     <thead>
         <th>Title</th>
         <th>Author</th>
