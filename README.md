@@ -1,11 +1,11 @@
-<table>
+<table align="text-center">
     <thead>
         <th>Title</th>
         <th>Author</th>
         <th>Number of Pages</th>
         <th>Start Date</th>
         <th>End Date</th>
-        <th></th>
+        <th>Summary</th>
     </thead>
     <tbody>
         <tr>
