@@ -16,7 +16,6 @@
             <td></td>
             <td><a href="12-rules-to-learn-to-code.html">Summary</a></td>
         </tr>
-
         <tr>
             <td></td>
             <td></td>
@@ -25,7 +24,6 @@
             <td></td>
             <td><a href="#">Summary</a></td>
         </tr>
-
         <tr>
             <td></td>
             <td></td>
