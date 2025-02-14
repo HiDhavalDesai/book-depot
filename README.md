@@ -32,8 +32,5 @@
             <td></td>
             <td><a href="#">Summary</a></td>
         </tr>
-
-
-
     </tbody>
 </table>
