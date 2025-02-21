@@ -1,5 +1,8 @@
 <h1>Welcome to my Book Depot</h1>
-<p>Here you will find every book I've read and it's summary.</p>
+<p>Here you will find every book I've read and my takeaways.</p>
+<p>These summaries/takeaways are not meant to be used for school work or professional work. They are notes and things I found interesting when reading.</p>
+<p>Use at your own discretion.</p>
+
 
 <table>
     <thead>
