@@ -16,7 +16,7 @@
         <tr>
             <td>Atomic Habits</td>
             <td>James Clear</td>
-            <td><a href="#">Summary</a></td>
+            <td><a href="atomic-habits.html">Summary</a></td>
         </tr>
         <tr>
             <td></td>
