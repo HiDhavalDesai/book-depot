@@ -24,22 +24,22 @@
         <tr>
             <td></td>
             <td></td>
-            <td><a href="#">Summary</a></td>
+            <td><a href="#">My Notes</a></td>
         </tr>
         <tr>
             <td></td>
             <td></td>
-            <td><a href="#">Summary</a></td>
+            <td><a href="#">My Notes</a></td>
         </tr>
         <tr>
             <td></td>
             <td></td>
-            <td><a href="#">Summary</a></td>
+            <td><a href="#">My Notes</a></td>
         </tr>
         <tr>
             <td></td>
             <td></td>
-            <td><a href="#">Summary</a></td>
+            <td><a href="#">My Notes</a></td>
         </tr>
     </tbody>
 </table>
